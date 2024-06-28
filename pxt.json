@@ -7,15 +7,11 @@
     "files": [
         "README.md",
         "assets.json",
-        "_animation.ts",
-        "_render_blocks.ts",
         "_render_raycasting.ts",
         "tilemap.g.jres",
         "tilemap.g.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "targetVersions": {
         "branch": "v1.10.36",
         "tag": "v1.10.36",
